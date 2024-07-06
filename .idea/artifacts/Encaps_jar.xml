@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Encaps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Encaps_jar</output-path>
+    <root id="archive" name="Encaps.jar">
+      <element id="module-output" name="Encaps" />
+    </root>
+  </artifact>
+</component>
